@@ -20,22 +20,22 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://www.youtube.com/@kz._'// ubah aia
-global.ig = 'rhandrqz_' // ubah aja
+global.ig = 'raka.ramadhan180108' // ubah aja
 global.linkgrupss = "-"
 global.email = 'kz857@gmail.com'
 global.region = 'japan'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'kz' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'F' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'kz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KhaTheHard' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Aisyah-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Bot bug' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289520604246','6289520604246'] // ubah aja pake nomor lu
-global.premium = ['6289520604246'] // ubah aja pake nomor lu
-global.packname = 'kz' // ubah aja
-global.ownerr = ['kz'] // ubaha aja
-global.author = 'kz' //ubah aja
-global.sessionName = 'haikal'
+global.owner = ['62882006212045','16623300488'] // ubah aja pake nomor lu
+global.premium = ['62882006312045'] // ubah aja pake nomor lu
+global.packname = 'KhaXd' // ubah aja
+global.ownerr = ['KhaTheJard'] // ubaha aja
+global.author = 'Hw Mods' //ubah aja
+global.sessionName = 'session'
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
